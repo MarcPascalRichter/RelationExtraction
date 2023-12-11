@@ -1,0 +1,213 @@
+	nation	country	wiki_id
+0	afghanen	Afghanistan	Q889
+1	albaner	Albanien	Q222
+2	algerier	Algerien	Q262
+3	andorraner	Andorra	Q228
+4	angolaner	Angola	Q916
+5	antiguaner und barbudaner	Antigua und Barbuda	Q781
+6	antiguaner	Antigua und Barbuda	Q781
+7	barbudaner	Antigua und Barbuda	Q781
+8	argentinier	Argentinien	Q414
+9	armenier	Armenien	Q399
+10	aserbaidschaner	Aserbaidschan	Q227
+11	australier	Australien	Q408
+12	bahamaer	Bahamas	Q778
+13	bahrainer	Bahrain	Q398
+14	bangalen	Bangladesch	Q902
+15	bangladescher	Bangladesch	Q902
+16	barbadier	Barbados	Q244
+17	belarussen	Belarus	Q184
+18	weißrussen	Belarus	Q184
+19	belgier	Belgien	Q31
+20	belizianer	Belize	Q242
+21	beniner	Benin	Q962
+22	bhutaner	Bhutan	Q917
+23	bolivianer	Bolivien	Q750
+24	bosnier	Bosnien und Herzegowina	Q225
+25	botsuaner	Botswana	Q963
+26	brasilianer	Brasilien	Q155
+27	briten	Großbritannien	Q145
+28	bruneier	Brunei	Q921
+29	bulgaren	Bulgarien	Q219
+30	burkiner	Burkina Faso	Q965
+31	burundier	Burundi	Q967
+32	chilenen	Chile	Q298
+33	chinesen	China	Q148
+34	costa-ricaner	Costa Rica	Q800
+35	deutsche	Deutschland	Q183
+36	dominicaner	Dominica	Q784
+37	dominikaner	Dominikanische Republik	Q786
+38	dschibutier	Dschibuti	Q977
+39	dänen	Dänemark	Q35
+40	ecuadorianer	Ecuador	Q736
+41	eritreer	Eritrea	Q986
+42	estländer	Estland	Q191
+43	esten	Estland	Q191
+44	swazi	Eswatini	Q1050
+45	fidschianer	Fidschi	Q712
+46	finnen	Finnland	Q33
+47	franzosen	Frankreich	Q142
+48	gabuner	Gabun	Q1000
+49	gambier	Gambia	Q1005
+50	georgier	Georgien	Q230
+51	ghanaer	Ghana	Q117
+52	grenader	Grenada	Q769
+53	griechen	Griechenland	Q41
+54	guatemalteken	Guatemala	Q774
+55	guineer	Guinea	Q1006
+56	guinea-bissauer	Guinea-Bissau	Q1007
+57	guyaner	Guyana	Q734
+58	haitianer	Haiti	Q790
+59	honduraner	Honduras	Q783
+60	isländer	Island	Q189
+61	inder	Indien	Q668
+62	indonesier	Indonesien	Q252
+63	iraker	Irak	Q796
+64	iraner	Iran	Q794
+65	iren	Irland	Q27
+66	israelis	Israel	Q801
+67	italiener	Italien	Q38
+68	ivorer	Elfenbeinküste	Q1008
+69	jamaikaner	Jamaika	Q766
+70	japaner	Japan	Q17
+71	jemeniten	Jemen	Q805
+72	jordanier	Jordanien	Q810
+73	kambodschaner	Kambodscha	Q424
+74	kameruner	Kamerun	Q1009
+75	kanadier	Kanada	Q16
+76	kap-verdier	Kap Verde	Q1011
+77	kap verdier	Kap Verde	Q1011
+78	kasachen	Kasachstan	Q232
+79	katarer	Katar	Q846
+80	kenianer	Kenia	Q114
+81	kirgisen	Kirgisistan	Q813
+82	kiribatier	Kiribati	Q710
+83	kolumbianer	Kolumbien	Q739
+84	komorer	Komoren	Q970
+85	kongolesen (kinshasa)	Demokratische Republik Kongo	Q974
+86	kongolesen (brazzaville)	Republik Kongo	Q971
+87	kroaten	Kroatien	Q224
+88	kubaner	Kuba	Q241
+89	kuwaiter	Kuwait	Q817
+90	laoten	Laos	Q819
+91	lettländer	Lettland	Q211
+92	letten	Lettland	Q211
+93	libanesen	Libanon	Q822
+94	lesother	Lesotho	Q1013
+95	liberianer	Liberia	Q1014
+96	libyer	Libyen	Q1016
+97	liechtensteiner	Liechtenstein	Q347
+98	litauer	Litauen	Q37
+99	luxemburger	Luxemburg	Q32
+100	madagassen	Madagaskar	Q1019
+101	malawier	Malawi	Q1020
+102	malaysier	Malaysia	Q833
+103	malediver	Malediven	Q826
+104	malier	Mali	Q912
+105	malteser	Malta	Q233
+106	marokkaner	Marokko	Q1028
+107	marshaller	Marshallinseln	Q709
+108	mauretanier	Mauretanien	Q1025
+109	mauritier	Mauritius	Q1027
+110	mexikaner	Mexiko	Q96
+111	mikronesier	Mikronesien	Q702
+112	moldauer	Moldau	Q217
+113	monegassen	Monaco	Q235
+114	mongolen	Mongolei	Q711
+115	montenegriner	Montenegro	Q236
+116	mosambikaner	Mosambik	Q1029
+117	burmesen	Myanmar	Q836
+118	namibier	Namibia	Q1030
+119	nauruer	Nauru	Q697
+120	nepalesen	Nepal	Q837
+121	neuseeländer	Neuseeland	Q664
+122	nicaraguaner	Nicaragua	Q811
+123	niederländer	Niederlande	Q55
+124	holländer	Niederlande	Q55
+125	nigerianer	Nigeria	Q1033
+126	nigrer	Niger	Q1032
+127	nordkoreaner	Nordkorea	Q423
+128	nordmazedonier	Nordmazedonien	Q221
+129	norweger	Norwegen	Q20
+130	omaner	Oman	Q842
+131	osttimoresisch	Osttimor	Q574
+132	pakistaner	Pakistan	Q843
+133	palauer	Palau	Q695
+134	panamaer	Panama	Q804
+135	papua-neuguineer	Papua-Neuguinea	Q691
+136	neuguineer	Papua-Neuguinea	Q691
+137	paraguayer	Paraguay	Q733
+138	peruaner	Peru	Q419
+139	philippiner	Philippinen	Q928
+140	polen	Polen	Q36
+141	portugiesen	Portugal	Q45
+142	ruander	Ruanda	Q1037
+143	rumänen	Rumänien	Q218
+144	russländer	Russland	Q159
+145	russen	Russland	Q159
+146	salomoner	Salomonen	Q685
+147	salvadorianer	El Salvador	Q792
+148	sambier	Sambia	Q953
+149	kittitianer und nevisianer	St. Kitts und Nevis	Q763
+150	kittitianer	St. Kitts und Nevis	Q763
+151	nevisianer	St. Kitts und Nevis	Q763
+152	lucianer	St. Lucia	Q760
+153	vincenter	St. Vincent und die Grenadinen	Q757
+154	samoaner	Samoa	Q683
+155	san-marinese	San Marino	Q238
+156	saudi-araber	Saudi-Arabien	Q851
+157	schweden	Schweden	Q34
+158	schweizer	Schweiz	Q39
+159	senegaler	Senegal	Q1041
+160	serben	Serbien	Q403
+161	seycheller	Seychellen	Q1042
+162	sierra-leoner	Sierra Leone	Q1044
+163	simbabwer	Simbabwe	Q954
+164	singapurer	Singapur	Q334
+165	slowaken	Slowakei	Q214
+166	slowenen	Slowenien	Q215
+167	somalier	Somalia	Q1045
+168	spanier	Spanien	Q29
+169	sri lanker	Sri Lanka	Q854
+170	sudanesen	Sudan	Q1049
+171	surinamer	Suriname	Q730
+172	syrer	Syrien	Q858
+173	são-toméer	São Tomé und Príncipe	Q1039
+174	sao-tomeer	São Tomé und Príncipe	Q1039
+175	südafrikaner	Südafrika	Q258
+176	emirater	Vereinigte Arabische Emirate	Q878
+177	us-amerikaner	Vereinigte Staaten	Q30
+178	amerikaner	Vereinigte Staaten	Q30
+179	südkoreaner	Südkorea	Q884
+180	koreaner	Südkorea	Q884
+181	südsudanesen	Südsudan	Q958
+182	tadschiken	Tadschikistan	Q863
+183	tansanier	Tansania	Q924
+184	thailänder	Thailand	Q869
+185	togoer	Togo	Q945
+186	tongaer	Tonga	Q678
+187	tschader	Tschad	Q657
+188	tschechen	Tschechien	Q213
+189	trinidadianer und tobagonier	Trinidad und Tobago	Q754
+190	trinidadianer	Trinidad und Tobago	Q754
+191	tobagonier	Trinidad und Tobago	Q754
+192	tunesier	Tunesien	Q948
+193	türken	Türkei	Q43
+194	turkmenen	Turkmenistan	Q874
+195	tuvalier	Tuvalu	Q672
+196	ugander	Uganda	Q1036
+197	ukrainer	Ukraine	Q212
+198	magyaren	Ungarn	Q28
+199	uruguayer	Uruguay	Q77
+200	usbeken	Usbekistan	Q265
+201	vanuatuer	Vanuatu	Q686
+202	venezolaner	Venezuela	Q717
+203	vietnamesen	Vietnam	Q881
+204	zentralafrikaner	Zentralafrikanische Republik	Q929
+205	zyprer	Republik Zypern	Q229
+206	ägypter	Ägypten	Q79
+207	äquatorialguineer	Äquatorialguinea	Q983
+208	äthiopier	Äthiopien	Q115
+209	österreicher	Österreich	Q40
+210	engländer	Großbritannien	Q145
+211	mazedonier	Nordmazedonien	Q221
